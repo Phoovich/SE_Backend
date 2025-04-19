@@ -28,6 +28,7 @@ app.use(
       "https://swp-2-frontend.vercel.app",
       "https://camp-ground-project-git-test-phoovichs-projects.vercel.app",
       "https://camp-ground-project-4hbr3yp9x-phoovichs-projects.vercel.app",
+      "https://se-frontend-one.vercel.app",
     ],
     credentials: true,
   }),
